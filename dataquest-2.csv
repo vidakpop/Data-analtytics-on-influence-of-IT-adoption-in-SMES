@@ -1,0 +1,100 @@
+﻿Company Name,Industry,Size,Revenue,IT Budget,IT Infrastructure,IT Adoption Drivers,IT Adoption Challenges,IT Adoption Success
+Apple Inc.,Technology,150000,$274.5 billion,$20 billion,High,"Cost, Competitive Advantage","Resistance to Change, Lack of Technical Expertise",High
+Google LLC,Technology,135000,$181.69 billion,$15 billion,Medium,N/A,"Lack of Financial Resources, Lack of Technical Expertise",Low
+Microsoft Corporation,Technology,175000,$165.71 billion,$18 billion,Low,"Regulatory Compliance, Improved Patient Care","Lack of Technical Expertise, Resistance to Change, Cost",Medium
+Amazon.com Inc.,Retail,500000,$386.06 billion,$20 billion,Medium,"Efficiency, Cost","Lack of Technical Expertise, Lack of Financial Resources",Medium
+"Facebook, Inc.",Technology,75000,$70.7 billion,$5 billion,High,"Competitive Advantage, Innovation, Employee Productivity","Resistance to Change, Cost, Lack of Technical Expertise",High
+"Twitter, Inc.",Technology,5000,$3.7 billion,$1 billion,Medium,"Cost, Efficiency","Lack of Technical Expertise, Resistance to Change",High
+Intel Corporation,Technology,110000,$77.87 billion,$5 billion,Low,"Competitive Advantage, Cost","Lack of Financial Resources, Resistance to Change",Medium
+IBM Corporation,Technology,350000,$73.6 billion,$10 billion,Medium,"Improved Patient Care, Innovation","Resistance to Change, Cost",High
+"Cisco Systems, Inc.",Technology,75000,$51.9 billion,$6 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Oracle Corporation,Technology,135000,$39.07 billion,$5 billion,High,"Competitive Advantage, Innovation","Cost, Resistance to Change",Medium
+Adobe Inc.,Technology,22000,$17.56 billion,$3 billion,High,"Efficiency, Cost","Resistance to Change, Lack of Technical Expertise",High
+HP Inc.,Technology,43000,$58.75 billion,$4 billion,Low,"Competitive Advantage, Efficiency","Lack of Financial Resources, Resistance to Change",High
+Dell Technologies Inc.,Technology,165000,$94.24 billion,$10 billion,Medium,"Improved Patient Care, Cost","Resistance to Change, Lack of Technical Expertise",High
+NVIDIA Corporation,Technology,18000,$16.68 billion,$2 billion,Medium,"Efficiency, Competitive Advantage","Lack of Technical Expertise, Lack of Financial Resources",Medium
+"VMware, Inc.",Technology,24000,$10.81 billion,$3 billion,High,"Innovation, Employee Productivity","Resistance to Change, Lack of Technical Expertise",Medium
+Salesforce.com Inc.,Technology,55000,$17.1 billion,$5 billion,Medium,"Cost, Efficiency","Resistance to Change, Lack of Financial Resources",Medium
+Broadcom Inc.,Technology,115000,$23.89 billion,$2 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Qualcomm Incorporated,Technology,37000,$23.5 billion,$3 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+SAP SE,Technology,100000,$27.34 billion,$5 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Western Digital Corporation,Technology,7000,$16.57 billion,$1 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Dell EMC,Technology,95000,$78.5 billion,$10 billion,High,"Competitive Advantage, Efficiency","Resistance to Change, Lack of Technical Expertise",High
+Lenovo Group Limited,Technology,63000,$50.7 billion,$3 billion,Medium,"Cost, Competitive Advantage","Lack of Financial Resources, Resistance to Change",High
+Toshiba Corporation,Technology,14000,$35.4 billion,$2 billion,High,"Improved Patient Care, Cost","Resistance to Change, Lack of Technical Expertise",High
+"Huawei Technologies Co., Ltd.",Technology,190000,$136.72 billion,$10 billion,Medium,"Efficiency, Cost","Lack of Technical Expertise, Resistance to Change",High
+LG Electronics Inc.,Technology,74000,$56.45 billion,$3 billion,Low,"Competitive Advantage, Innovation","Lack of Financial Resources, Resistance to Change",Medium
+Panasonic Corporation,Technology,26000,$62.4 billion,$3 billion,Medium,"Efficiency, Cost","Lack of Technical Expertise, Resistance to Change",Medium
+"Hitachi, Ltd.",Technology,30000,$84.39 billion,$4 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Fujitsu Limited,Technology,80000,$36.95 billion,$2 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Sony Corporation,Technology,114000,$82.78 billion,$4 billion,High,"Efficiency, Competitive Advantage","Resistance to Change, Lack of Technical Expertise",High
+Sharp Corporation,Technology,50000,$19.12 billion,$1 billion,Medium,"Cost, Competitive Advantage","Lack of Financial Resources, Resistance to Change",High
+NEC Corporation,Technology,100000,$25.63 billion,$2 billion,High,"Cost, Efficiency","Resistance to Change, Lack of Technical Expertise",High
+ASUSTeK Computer Inc.,Technology,20000,$21.2 billion,$1 billion,Low,"Competitive Advantage, Efficiency","Lack of Financial Resources, Resistance to Change",High
+Acer Inc.,Technology,12000,$7.03 billion,$500 million,Medium,"Improved Patient Care, Cost","Resistance to Change, Lack of Technical Expertise",High
+HTC Corporation,Technology,4000,$1.3 billion,$100 million,Medium,"Efficiency, Competitive Advantage","Lack of Technical Expertise, Lack of Financial Resources",Medium
+Xiaomi Inc.,Technology,15000,$30 billion,$2 billion,Low,"Competitive Advantage, Innovation","Lack of Financial Resources, Resistance to Change",Medium
+"OnePlus Technology (Shenzhen) Co., Ltd.",Technology,2000,$1.4 billion,$100 million,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Oppo Electronics Corp.,Technology,4000,$20 billion,$1 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Vivo Communication Technology Co. Ltd.,Technology,30000,$30 billion,$2 billion,High,"Improved Patient Care, Cost","Resistance to Change, Lack of Technical Expertise",High
+BlackBerry Limited,Technology,3000,$1.2 billion,$500 million,Medium,"Efficiency, Cost","Lack of Financial Resources, Resistance to Change",High
+Nokia Corporation,Technology,18000,$23.32 billion,$1 billion,High,"Competitive Advantage, Innovation","Resistance to Change, Lack of Technical Expertise",High
+Ericsson AB,Technology,100000,$23.5 billion,$2 billion,Medium,"Cost, Efficiency","Lack of Technical Expertise, Resistance to Change",High
+"Motorola Solutions, Inc.",Technology,17000,$8.34 billion,$1 billion,Low,"Competitive Advantage, Efficiency","Lack of Financial Resources, Resistance to Change",Medium
+Honeywell International Inc.,Technology,110000,$36.7 billion,$5 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+General Electric Company,Technology,200000,$79.6 billion,$8 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Siemens AG,Technology,385000,$74.3 billion,$6 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+ABB Ltd,Technology,105000,$28.6 billion,$2 billion,High,"Cost, Efficiency","Resistance to Change, Lack of Technical Expertise",High
+Schneider Electric SE,Technology,135000,$27.2 billion,$2 billion,Medium,"Competitive Advantage, Efficiency","Lack of Financial Resources, Resistance to Change",High
+Philips NV,Healthcare,78000,$19.5 billion,$1.5 billion,High,"Improved Patient Care, Cost","Resistance to Change, Lack of Technical Expertise",High
+Koninklijke DSM N.V.,Healthcare,23000,$13.8 billion,$1 billion,Low,"Efficiency, Competitive Advantage","Lack of Technical Expertise, Resistance to Change",High
+3M Company,Manufacturing,96000,$32.2 billion,$2 billion,Medium,"Competitive Advantage, Innovation","Lack of Financial Resources, Resistance to Change",High
+The Procter & Gamble Company,Manufacturing,105000,$70.95 billion,$4 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Colgate-Palmolive Company,Manufacturing,35000,$16.5 billion,$1 billion,Low,"Competitive Advantage, Efficiency","Lack of Financial Resources, Resistance to Change",Medium
+Unilever PLC,Manufacturing,155000,$58.2 billion,$2 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Johnson & Johnson,Healthcare,135000,$82.6 billion,$5 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Pfizer Inc.,Healthcare,88000,$52.5 billion,$4 billion,High,"Competitive Advantage, Innovation","Resistance to Change, Lack of Technical Expertise",High
+"Merck & Co., Inc.",Healthcare,69000,$48 billion,$3 billion,Medium,"Cost, Efficiency","Lack of Financial Resources, Resistance to Change",High
+Eli Lilly and Company,Healthcare,33000,$24.5 billion,$2 billion,High,"Competitive Advantage, Efficiency","Resistance to Change, Lack of Technical Expertise",High
+Novartis International AG,Healthcare,120000,$48.7 billion,$4 billion,Medium,"Improved Patient Care, Cost","Lack of Technical Expertise, Resistance to Change",High
+GlaxoSmithKline plc,Healthcare,99000,$47.4 billion,$3 billion,Low,"Efficiency, Competitive Advantage","Lack of Financial Resources, Resistance to Change",Medium
+Sanofi S.A.,Healthcare,100000,$40.3 billion,$3 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Roche Holding AG,Healthcare,101000,$66.7 billion,$4 billion,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Biogen Inc.,Healthcare,7600,$14.4 billion,$1 billion,High,"Competitive Advantage, Efficiency","Resistance to Change, Lack of Technical Expertise",High
+Bristol-Myers Squibb Company,Healthcare,30000,$22.6 billion,$1.5 billion,Medium,"Improved Patient Care, Cost","Lack of Technical Expertise, Resistance to Change",High
+Medtronic plc,Healthcare,90000,$30.6 billion,$3 billion,High,"Efficiency, Cost","Resistance to Change, Lack of Technical Expertise",High
+Abbott Laboratories,Healthcare,103000,$34.6 billion,$3 billion,Low,"Competitive Advantage, Innovation","Lack of Financial Resources, Resistance to Change",Medium
+Thermo Fisher Scientific Inc.,Healthcare,75000,$32.2 billion,$2 billion,Medium,"Cost, Efficiency","Lack of Technical Expertise, Resistance to Change",High
+"Illumina, Inc.",Healthcare,7000,$4.9 billion,$500 million,Low,"Competitive Advantage, Efficiency","Lack of Financial Resources, Resistance to Change",Medium
+"Agilent Technologies, Inc.",Healthcare,16000,$5.3 billion,$500 million,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Danaher Corporation,Healthcare,70000,$22.3 billion,$2 billion,High,"Efficiency, Competitive Advantage","Resistance to Change, Lack of Technical Expertise",High
+Waters Corporation,Healthcare,7000,$2.5 billion,$500 million,Medium,"Innovation, Employee Productivity","Lack of Financial Resources, Resistance to Change",High
+"PerkinElmer, Inc.",Healthcare,14000,$3.8 billion,$500 million,High,"Competitive Advantage, Efficiency","Resistance to Change, Lack of Technical Expertise",High
+"Tesla, Inc.",Manufacturing,100000,$31.54 billion,$2 billion,Medium,"Competitive Advantage, Efficiency","Lack of Financial Resources, Resistance to Change",High
+"Uber Technologies, Inc.",Technology,22000,$11.14 billion,$1 billion,Low,"Improved Patient Care, Cost","Lack of Technical Expertise, Resistance to Change",High
+"Airbnb, Inc.",Hospitality,16000,$4.7 billion,$500 million,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+"Dropbox, Inc.",Technology,2300,$2.1 billion,$500 million,High,"Cost, Competitive Advantage","Resistance to Change, Lack of Technical Expertise",High
+"Slack Technologies, Inc.",Technology,2000,$902 million,$100 million,Medium,N/A,"Lack of Financial Resources, Lack of Technical Expertise",Low
+"Zoom Video Communications, Inc.",Technology,3000,$2.65 billion,$500 million,Low,"Regulatory Compliance, Improved Patient Care","Lack of Technical Expertise, Resistance to Change, Cost",Medium
+"Square, Inc.",Finance,5000,$9.5 billion,$1 billion,Medium,"Efficiency, Cost","Lack of Technical Expertise, Lack of Financial Resources",Medium
+"Robinhood Markets, Inc.",Finance,2000,$220 million,$100 million,High,"Competitive Advantage, Innovation, Employee Productivity","Resistance to Change, Cost, Lack of Technical Expertise",High
+Palantir Technologies Inc.,Technology,2500,$1.17 billion,$500 million,Medium,"Cost, Efficiency","Lack of Technical Expertise, Resistance to Change",High
+Snowflake Inc.,Technology,3500,$583 million,$100 million,Low,"Competitive Advantage, Cost","Lack of Financial Resources, Resistance to Change",Medium
+Unity Software Inc.,Technology,3000,$541 million,$100 million,Medium,"Improved Patient Care, Innovation","Resistance to Change, Cost",High
+Snowflake Inc.,Technology,3500,$3.87 billion,$100 million,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+"Asana, Inc.",Technology,1200,$303.9 million,$100 million,High,"Competitive Advantage, Innovation","Cost, Resistance to Change",Medium
+Twilio Inc.,Technology,5000,$1.76 billion,$500 million,High,"Efficiency, Cost","Resistance to Change, Lack of Technical Expertise",High
+"DocuSign, Inc.",Technology,5000,$1.44 billion,$500 million,Low,"Competitive Advantage, Efficiency","Lack of Financial Resources, Resistance to Change",High
+"Okta, Inc.",Technology,3000,$586.07 million,$100 million,Medium,"Improved Patient Care, Cost","Resistance to Change, Lack of Technical Expertise",High
+"Cloudflare, Inc.",Technology,2000,$431.65 million,$100 million,Medium,"Efficiency, Competitive Advantage","Lack of Technical Expertise, Lack of Financial Resources",Medium
+"PagerDuty, Inc.",Technology,700,$161.4 million,$100 million,High,"Innovation, Employee Productivity","Resistance to Change, Lack of Technical Expertise",Medium
+"Datadog, Inc.",Technology,2100,$601.2 million,$100 million,Medium,"Cost, Efficiency","Resistance to Change, Lack of Financial Resources",Medium
+"Fastly, Inc.",Technology,1300,$200.5 million,$100 million,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+"Crowdstrike Holdings, Inc.",Technology,4000,$874.4 million,$500 million,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+Elastic N.V.,Technology,2000,$608.7 million,$100 million,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+"MongoDB, Inc.",Technology,2800,$422.5 million,$100 million,Low,N/A,"Lack of Technical Expertise, Lack of Financial Resources",Low
+"Zscaler, Inc.",Technology,2500,$431.9 million,$100 million,High,"Competitive Advantage, Efficiency","Resistance to Change, Lack of Technical Expertise",High
+Ping Identity Holding Corp.,Technology,970,$303.4 million,$100 million,Medium,"Cost, Competitive Advantage","Lack of Financial Resources, Resistance to Change",High
+"Zuora, Inc.",Technology,800,$236.9 million,$100 million,High,"Improved Patient Care, Cost","Resistance to Change, Lack of Technical Expertise",High
+Splunk Inc.,Technology,6000,$1.83 billion,$1 billion,Medium,"Efficiency, Cost","Lack of Technical Expertise, Resistance to Change",High
+"Pure Storage, Inc.",Technology,3000,$1.77 billion,$1 billion,Low,"Competitive Advantage, Innovation","Cost, Resistance to Change",Medium
